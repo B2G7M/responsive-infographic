@@ -14,13 +14,17 @@ html {
   background-color: #f5f8f6;
 
   font-family: sans-serif;
+}
 
-.youth-bone {
+.youth-bone svg{
   font-family: 'Arvo', serif;
-  font-style: bold;
+  font-weight: 700;
 }
 
+svg {
+  stroke-width:0;
 }
+
 
 .set-hut {
   width: 80px;
