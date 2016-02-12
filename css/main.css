@@ -12,11 +12,14 @@ html {
   text-size-adjust: 100%;
 
   background-color: #f5f8f6;
-  font-family: 'Oswald', sans-serif;
+
+  font-family: sans-serif;
+
+.youth-bone {
+  font-family: 'Arvo', serif;
+  font-style: bold;
 }
 
-svg {
-  stroke-width: 0;
 }
 
 .set-hut {
@@ -36,7 +39,6 @@ svg {
 
 .top-bar {
   top: 10px;
-  width: 100%;
 
 }
 
@@ -49,9 +51,8 @@ svg {
 
 }
 
-/*.bone {
+.bone {
   width: 600px;
-  right: 0px;
   position: absolute;
   z-index: 1;
-}*/
+}
