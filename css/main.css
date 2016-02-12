@@ -11,7 +11,47 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  background-color: #e2e2e2;
+  background-color: #f5f8f6;
 
   font-family: sans-serif;
 }
+
+svg {
+  stroke-width: 0;
+}
+
+.set-hut {
+  width: 80px;
+  position: absolute;
+  top: 10px;
+
+}
+
+.medallion {
+  width: 160px;
+}
+
+.neurological-damage {
+  width: 200px;
+}
+
+.top-bar {
+  top: 10px;
+
+}
+
+.sixty-two {
+  width: 200px;
+
+}
+
+.youth {
+
+}
+
+/*.bone {
+  width: 600px;
+  right: 0px;
+  position: absolute;
+  z-index: 1;
+}*/
